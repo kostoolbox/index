@@ -5,6 +5,7 @@ KOS工具箱是一个主要面向Kangle EP系统的Linux Shell脚本管理工具
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a> [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+<br>
 <h2>KOS工具箱Shell启动命令</h2>
 <pre><strong><code>wget -q kos.f2k.pub -O kos;sh kos</code></strong></pre>
 
