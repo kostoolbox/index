@@ -9,4 +9,4 @@ KOS工具箱是一个主要面向Kangle EP系统的Linux Shell脚本管理工具
 <h2>KOS工具箱Shell启动命令</h2>
 <pre><strong><code>wget -q kos.f2k.pub -O kos;sh kos</code></strong></pre>
 
-KOS工具箱官方网址 https://kos.qwblog.cn/
+KOS工具箱官方网址 https://kostool.cn/
